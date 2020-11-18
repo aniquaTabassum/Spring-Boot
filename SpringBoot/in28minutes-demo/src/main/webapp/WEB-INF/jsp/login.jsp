@@ -4,6 +4,7 @@
     </head>
     <body>
 
+    <font color="red"> ${errorMessage}</font>
         <form method="post">
 
             name is <input type="text" name="name">
